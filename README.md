@@ -25,8 +25,8 @@ Step5: Give ep_chassis.drive_speed to have a circular movement.
 
 
 ## Program :
-#Developed by : Dhiyaneshwar P
-#Registor number : 212222110009
+    #Developed by : Dhiyaneshwar P
+    #Registor number : 212222110009
 ```
     from robomaster import robot
 import time
